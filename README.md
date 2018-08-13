@@ -3,6 +3,7 @@ This is a twitch chat "bot" that I made in Auto Hot Key (https://autohotkey.com/
 
 Requirements:
 1.) Auto Hotkey(https://autohotkey.com/)
+2.) Must leave the window open at all times THIS IS AN AFK SCRIPT
 
 How to use:
 1.) Double Click the script
