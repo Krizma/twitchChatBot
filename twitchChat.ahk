@@ -20,6 +20,7 @@ main()
 	Value := Array[rand] ;retrieve an item from the array based on our RNG
 	;DEBUGGING MsgBox % " Value is equal to " . Value . "."
 	Send %Value%
+	Send {Tab}
 	Send {Enter}
 	
 	sleep, 570000 ;wait 9.5 minutes
