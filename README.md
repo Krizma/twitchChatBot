@@ -1,1 +1,2 @@
 # twitchChatBot
+This is a twitch chat "bot" that I made in Auto Hot Key (https://autohotkey.com/). Essentially what it does is opens a twitch chat window (in this case it pulls up a friends twitch chat) hits tab twice then pulls 1 of 25 possible inputs from a hard coded array puts it in chat and sends it, waits 9.5 minutes then repeats. The idea of this is to keep my max level on Mikuia bot on that channel. 
