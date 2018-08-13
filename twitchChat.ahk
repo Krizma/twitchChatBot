@@ -21,6 +21,7 @@ main()
 	;DEBUGGING MsgBox % " Value is equal to " . Value . "."
 	Send %Value%
 	Send {Tab}
+	sleep, 500 ;wait .5 seconds
 	Send {Enter}
 	
 	sleep, 570000 ;wait 9.5 minutes
